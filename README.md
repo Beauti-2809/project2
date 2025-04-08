@@ -1,5 +1,4 @@
 # New Project
 
 This project was created from local system.
-Created by Shradha Khapra.git status
-git commoit
+Created by Shradha Khapra.
